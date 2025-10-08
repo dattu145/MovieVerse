@@ -1,4 +1,4 @@
-  # MovieVerse- React
+  # MovieVerse - React
   
   A Movie App built with **React** that allows users to browse movies, search for specific titles, and save their favorites.  
   This project demonstrates core React concepts including **page routing, state management, Context API, hooks (`useState`, `useEffect`)**, and API integration with **TMDB**.
